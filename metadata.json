@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Milk Vendor Dashboard",
+  "description": "A milk vendor app to manage customer milk provisions, daily entries, and monthly billing, powered by Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
